@@ -10,5 +10,9 @@
   "scripts": {
     "dev": "netlify-lambda serve functions",
     "build": "netlify-lambda build functions"
+  },
+  "dependencies": {
+    "bad-words": "^3.0.2",
+    "node-fetch": "^2.3.0"
   }
 }
