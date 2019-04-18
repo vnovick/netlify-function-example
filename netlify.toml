@@ -1,4 +1,3 @@
 [build]
-  command = "yarn"
-  command = "npm run build"
+  command = "npm run build:lambda"
   functions = ".netlify/functions/"
