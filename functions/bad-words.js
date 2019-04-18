@@ -1,5 +1,5 @@
 const fetch = require('node-fetch');
-const Filter = require('bad-words'),
+const Filter = require('bad-words');
 
 const filter = new Filter();
 
